@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://alendia.github.io/"/>
   <updated>2020-04-29T09:14:50.080Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://alendia.github.io/</id>
   
   <author>
     <name>Alendia</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>读过的设计书（陆续更新）</title>
-    <link href="http://yoursite.com/2020/04/29/book-recommendation-about-design/"/>
-    <id>http://yoursite.com/2020/04/29/book-recommendation-about-design/</id>
+    <link href="http://alendia.github.io/2020/04/29/book-recommendation-about-design/"/>
+    <id>http://alendia.github.io/2020/04/29/book-recommendation-about-design/</id>
     <published>2020-04-29T08:10:23.000Z</published>
     <updated>2020-04-29T09:14:50.080Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-      <category term="Design" scheme="http://yoursite.com/tags/Design/"/>
+      <category term="Design" scheme="http://alendia.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>一台PC给我的启示</title>
-    <link href="http://yoursite.com/2020/04/09/a-new-pc/"/>
-    <id>http://yoursite.com/2020/04/09/a-new-pc/</id>
+    <link href="http://alendia.github.io/2020/04/09/a-new-pc/"/>
+    <id>http://alendia.github.io/2020/04/09/a-new-pc/</id>
     <published>2020-04-09T07:08:25.000Z</published>
     <updated>2020-04-09T08:54:19.640Z</updated>
     
@@ -61,14 +61,14 @@
     
     
     
-      <category term="数码" scheme="http://yoursite.com/tags/%E6%95%B0%E7%A0%81/"/>
+      <category term="数码" scheme="http://alendia.github.io/tags/%E6%95%B0%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>一直困扰我的抑郁情绪</title>
-    <link href="http://yoursite.com/2020/04/03/depression-mood/"/>
-    <id>http://yoursite.com/2020/04/03/depression-mood/</id>
+    <link href="http://alendia.github.io/2020/04/03/depression-mood/"/>
+    <id>http://alendia.github.io/2020/04/03/depression-mood/</id>
     <published>2020-04-02T19:48:38.000Z</published>
     <updated>2020-04-03T10:38:56.687Z</updated>
     
@@ -87,14 +87,14 @@
     
     
     
-      <category term="Psychology" scheme="http://yoursite.com/tags/Psychology/"/>
+      <category term="Psychology" scheme="http://alendia.github.io/tags/Psychology/"/>
     
   </entry>
   
   <entry>
     <title>从化妆品谈谈税收</title>
-    <link href="http://yoursite.com/2020/04/01/Cosmetics&amp;Tax/"/>
-    <id>http://yoursite.com/2020/04/01/Cosmetics&amp;Tax/</id>
+    <link href="http://alendia.github.io/2020/04/01/Cosmetics&amp;Tax/"/>
+    <id>http://alendia.github.io/2020/04/01/Cosmetics&amp;Tax/</id>
     <published>2020-04-01T09:31:51.000Z</published>
     <updated>2020-04-02T19:10:44.388Z</updated>
     
@@ -112,14 +112,14 @@
     
     
     
-      <category term="Economics" scheme="http://yoursite.com/tags/Economics/"/>
+      <category term="Economics" scheme="http://alendia.github.io/tags/Economics/"/>
     
   </entry>
   
   <entry>
     <title>新的开始</title>
-    <link href="http://yoursite.com/2020/03/31/New-start/"/>
-    <id>http://yoursite.com/2020/03/31/New-start/</id>
+    <link href="http://alendia.github.io/2020/03/31/New-start/"/>
+    <id>http://alendia.github.io/2020/03/31/New-start/</id>
     <published>2020-03-31T14:29:40.000Z</published>
     <updated>2020-04-02T17:08:11.014Z</updated>
     
